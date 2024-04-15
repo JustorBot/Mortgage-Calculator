@@ -1,0 +1,10 @@
+C:\Users\justf\source\repos\Mortgage\Mortgage\bin\Debug\Mortgage.exe.config
+C:\Users\justf\source\repos\Mortgage\Mortgage\bin\Debug\Mortgage.exe
+C:\Users\justf\source\repos\Mortgage\Mortgage\bin\Debug\Mortgage.pdb
+C:\Users\justf\source\repos\Mortgage\Mortgage\obj\Debug\Mortgage.csproj.AssemblyReference.cache
+C:\Users\justf\source\repos\Mortgage\Mortgage\obj\Debug\Mortgage.Form1.resources
+C:\Users\justf\source\repos\Mortgage\Mortgage\obj\Debug\Mortgage.Properties.Resources.resources
+C:\Users\justf\source\repos\Mortgage\Mortgage\obj\Debug\Mortgage.csproj.GenerateResource.cache
+C:\Users\justf\source\repos\Mortgage\Mortgage\obj\Debug\Mortgage.csproj.CoreCompileInputs.cache
+C:\Users\justf\source\repos\Mortgage\Mortgage\obj\Debug\Mortgage.exe
+C:\Users\justf\source\repos\Mortgage\Mortgage\obj\Debug\Mortgage.pdb
